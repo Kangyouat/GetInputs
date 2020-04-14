@@ -11,4 +11,6 @@
 	b. The actual file type (PDF or JPG)
 	c. The MD5 hash of the file contents
 
-Be sure to create a directory,a CSV file, JPG file(s) named 0xKTLM16 and PDF file(s) named 0x53302412 before starting the application.
+There is already a folder called "Stuff" that contains files to be analyzed and the output text file. Use the path and input it in the application
+
+If creating your own, create a directory,a CSV file, JPG file(s) named 0xKTLM16 and PDF file(s) named 0x53302412 before starting the application.
